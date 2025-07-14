@@ -29,8 +29,6 @@ The objective was to analyze Reddit user behavior and generate psychological per
 ---
 
 ## 🗂️ Project Structure
-
-
 reddit-persona-assignment/
 ├── main.py
 ├── test_scrape.py
@@ -44,3 +42,4 @@ reddit-persona-assignment/
 ├── personas/
 │ ├── kojied_persona.txt
 │ └── Hungry-Move-6603_persona.txt
+
